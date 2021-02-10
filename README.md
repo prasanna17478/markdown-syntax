@@ -60,3 +60,5 @@ def fun()
 
 ## add college website link
 [kits](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
+## inserting images
+![image](https://github.com/prasanna17478/markdown-syntax/blob/master/images.jpg)
