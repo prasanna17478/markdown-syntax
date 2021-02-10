@@ -62,3 +62,5 @@ def fun()
 [kits](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
 ## inserting images
 ![image](https://github.com/prasanna17478/markdown-syntax/blob/master/images.jpg)
+## inserting vedios
+[![master](https://img.youtube.com/RODgu91FPIk/0.jpg)](https://www.youtube.com/watch?v=RODgu91FPIk)
