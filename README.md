@@ -63,4 +63,4 @@ def fun()
 ## inserting images
 ![image](https://github.com/prasanna17478/markdown-syntax/blob/master/images.jpg)
 ## inserting vedios
-[![master](https://img.youtube.com/RODgu91FPIk/0.jpg)](https://www.youtube.com/watch?v=RODgu91FPIk)
+[![master](https://img.youtube.com/vi/RODgu91FPIk/0.jpg)](https://www.youtube.com/watch?v=RODgu91FPIk)
