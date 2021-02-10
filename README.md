@@ -52,4 +52,4 @@ def fun()
 `
 ## links
 
-[google]("https://github.com/prasanna17478/markdown-syntax/edit/main/README.md")
+[google](https://github.com/prasanna17478/markdown-syntax/edit/main/README.md)
