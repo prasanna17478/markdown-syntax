@@ -53,3 +53,10 @@ def fun()
 ## links
 
 [google](https://github.com/prasanna17478/markdown-syntax/edit/main/README.md)
+
+## add gmail link
+
+[gmail](https://www.youtube.com/)
+
+## add college website link
+[kits](https://collegedunia.com/college/14034-krishna-chaitanya-institute-of-technology-and-sciences-kits-prakasam)
